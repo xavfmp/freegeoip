@@ -5,7 +5,7 @@ the web server that empowers freegeoip.net, and a package for the
 [Go](http://golang.org) programming language that enables any web server
 to support IP geolocation with a simple and clean API.
 
-See http://en.wikipedia.org/wiki/Geolocation for details about geolocation.
+See http://en.wikipedia.org/wiki/Geolocation for details about geolocation or http://xj1.fr/geoip to see it in action.
 
 Developers looking for the Go API can skip to the [Package freegeoip](#packagefreegeoip)
 section below.
